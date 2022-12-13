@@ -8,8 +8,6 @@
 
 int main(void)
 {
-	print_alphabet();
-
 	char c = 'a';
 
 	while (c <= 'z')
@@ -19,5 +17,4 @@ int main(void)
 	}
 
 	_putchar('\n');
-	return (0);
 }
