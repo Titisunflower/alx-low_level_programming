@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - difficult task
+ *
+ * Return: Always 0 (success)
+ */
+
 int main(void)
 {
 	int n;
