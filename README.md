@@ -1,1 +1,1 @@
-C - Hello, World
+A repository that stores low-level programming projects done on ALX Software Engineering program. Low LevelProgramming The content in this repository is on low level programming in the C language. Module of Systemengineering and Devops, carried out during Full Stack Software Engineering studies at ALX Africa.
